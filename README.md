@@ -39,7 +39,7 @@ Real-time user login, registration, and messaging app with responsive UI and **S
 - **Languages:** Java, Python, JavaScript  
 - **Frontend:** HTML, CSS  
 - **Backend:** Node.js, Express.js  
-- **Databases:** MySQL, MongoDB  
+- **Databases:** MySQL 
 - **Tools:** Git, GitHub, VS Code, Streamlit, Socket.io  
 ---
 ### 📜 Certifications & Learning
