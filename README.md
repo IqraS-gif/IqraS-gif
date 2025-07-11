@@ -15,6 +15,18 @@ Hello! I'm a 3rd Computer Engineering student. I'm deeply passionate about **cod
 A Streamlit-powered chatbot that analyzes voice queries using **sentiment**, **emotion**, **tone**, and **domain relevance**, retrieves responses from a dataset, and offers an admin dashboard for insights.  
 **Tech:** Python, NLP, MySQL, Streamlit  
 
+### 🌱 AI-Driven Air Quality Monitoring System
+ Using Satellite Data + AI for PM2.5/PM10 Prediction
+ **Objective**:
+ Predict city-level particulate matter (PM2.5/PM10) concentrations by fusing:
+ • Satellite AOD (INSAT-3D)
+ • Ground sensors (CPCB)
+ • Weather data (MERRA-2)
+ **How It Works**:
+ 1. Data Fusion: Integrates AOD, weather (wind, PBLH), and historical PM.
+ 2. AI Model: XGBOOST predicts PM levels with <5µg/m³ MAE (validated against ground data).
+ 3. Visualization: Interactive maps and dashboards show real-time PM/AQI
+
 #### 🎮 **JFlappy Bird**
 Classic Flappy Bird game made with **Java Swing & AWT**, applying Object-Oriented Programming principles.  
 **Tech:** Java, Swing, OOP  
@@ -34,13 +46,7 @@ Detects misinformation in both articles and videos using **Google’s Gemini API
 Real-time user login, registration, and messaging app with responsive UI and **Socket.io** for instant communication.  
 
 ---
-### 🛠️ Tech Stack
 
-- **Languages:** Java, Python, JavaScript  
-- **Frontend:** HTML, CSS  
-- **Backend:** Node.js, Express.js  
-- **Databases:** MySQL 
-- **Tools:** Git, GitHub, VS Code, Streamlit, Socket.io  
 ---
 ### 📜 Certifications & Learning
 
