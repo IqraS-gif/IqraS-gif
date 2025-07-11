@@ -16,12 +16,14 @@ A Streamlit-powered chatbot that analyzes voice queries using **sentiment**, **e
 **Tech:** Python, NLP, MySQL, Streamlit  
 
 ### 🌱 AI-Driven Air Quality Monitoring System
- Using Satellite Data + AI for PM2.5/PM10 Prediction
+ Using Satellite Data + AI for PM2.5/PM10 Prediction.
+ 
  **Objective**:
  Predict city-level particulate matter (PM2.5/PM10) concentrations by fusing:
  • Satellite AOD (INSAT-3D)
  • Ground sensors (CPCB)
  • Weather data (MERRA-2)
+ 
  **How It Works**:
  1. Data Fusion: Integrates AOD, weather (wind, PBLH), and historical PM.
  2. AI Model: XGBOOST predicts PM levels with <5µg/m³ MAE (validated against ground data).
