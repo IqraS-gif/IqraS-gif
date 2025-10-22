@@ -15,7 +15,7 @@ Hello! I'm a 3rd Computer Engineering student. I'm deeply passionate about **cod
 A Streamlit-powered chatbot that analyzes voice queries using **sentiment**, **emotion**, **tone**, and **domain relevance**, retrieves responses from a dataset, and offers an admin dashboard for insights.  
 **Tech:** Python, NLP, MySQL, Streamlit  
 
-### 🌱 AI-Driven Air Quality Monitoring System
+#### 🌱 AI-Driven Air Quality Monitoring System
  Using Satellite Data + AI for PM2.5/PM10 Prediction.
  
  **Objective**:
@@ -28,6 +28,12 @@ A Streamlit-powered chatbot that analyzes voice queries using **sentiment**, **e
  1. Data Fusion: Integrates AOD, weather (wind, PBLH), and historical PM.
  2. AI Model: XGBOOST predicts PM levels with <5µg/m³ MAE (validated against ground data).
  3. Visualization: Interactive maps and dashboards show real-time PM/AQI
+
+#### 🔥 **Founder’s Fuel (RAG, GenAI, NLP, Web Search, Pretrained Models)**
+
+1. Built an AI-powered startup analysis platform featuring a RAG chatbot for 7-domain evaluation and live competitor research.  
+2. Engineered a pitch deck analyzer and recommendation engine connecting startups with 3,000+ investors and accelerators.  
+3. Leveraged pretrained NLP models (RoBERTa, BERT-base-NER, Sentence Transformers) to track startup progress and provide insights from historical data.
 
 #### 🎮 **JFlappy Bird**
 Classic Flappy Bird game made with **Java Swing & AWT**, applying Object-Oriented Programming principles.  
