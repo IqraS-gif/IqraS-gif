@@ -54,6 +54,11 @@ Detects misinformation in both articles and videos using **Google’s Gemini API
 Real-time user login, registration, and messaging app with responsive UI and **Socket.io** for instant communication.  
 
 ---
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=IqraS-gif&show_icons=true&theme=tokyonight" />
+  <img src="https://streak-stats.demolab.com?user=IqraS-gif&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=IqraS-gif&layout=compact&theme=tokyonight" />
+</p>
 
 ---
 ### 📜 Certifications & Learning
@@ -71,7 +76,9 @@ Real-time user login, registration, and messaging app with responsive UI and **S
 
 ### 🏅 Achievements & Communities
 
-- 🥈 **2nd Prize at EXALT** – College’s Technical Fest  
+- 🥈 **2nd Prize at EXALT** – College’s Technical Fest
+- 🥈 **1st runnerup at HackNova-2025 Hackathon**
+- 💻 **Web Dev Intern at Axel Enterprise**
 - 🌱 **Social Entrepreneurship** – Hamari Pahchan NGO  
 - 🚀 **Fellow, SheFi Cohort 14**
 - 🚀 **Completed postman student expert program**
