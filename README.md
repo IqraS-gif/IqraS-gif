@@ -9,6 +9,7 @@ Computer Engineering Student | Web Developer | AI & ML Explorer
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/iqrasayed25/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:iqrahsayed625@gmail.com)
+![Profile views](https://komarev.com/ghpvc/?username=IqraS-gif&label=Profile%20views&color=0e75b6&style=flat)
 
 ---
 
