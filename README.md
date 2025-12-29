@@ -15,7 +15,7 @@ Computer Engineering Student | Web Developer | AI & ML Explorer
 
 ### 👩🏻‍💻 About Me
 
-Hello! I'm a 3rd-year Computer Engineering student. I'm deeply passionate about **coding**, **web development**, and **AI/ML**. I love building impactful, intelligent applications — from real-time chat systems to startup analysis tools. I thrive in fast-paced, learning-rich environments and enjoy turning ideas into digital reality.
+Hello! I'm a 3rd-year Computer Engineering student with a CGPA of 9.91. I'm deeply passionate about **coding**, **web development**, and **AI/ML**. I love building impactful, intelligent applications — from real-time chat systems to startup analysis tools. I thrive in fast-paced, learning-rich environments and enjoy turning ideas into digital reality.
 
 ---
 
@@ -142,7 +142,6 @@ Real-time user login, registration, and messaging app with responsive UI and **S
 ---
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=IqraS-gif&show_icons=true&theme=tokyonight" />
   <img src="https://streak-stats.demolab.com?user=IqraS-gif&theme=tokyonight" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=IqraS-gif&layout=compact&theme=tokyonight" />
 </p>
@@ -170,8 +169,6 @@ Real-time user login, registration, and messaging app with responsive UI and **S
 ---
 
 ### 🧭 GitHub Achievements & Activity  
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=IqraS-gif&show_icons=true&theme=tokyonight&cache_seconds=86400)
 
 ![Iqra's Graph](https://github-readme-activity-graph.vercel.app/graph?username=IqraS-gif&theme=tokyo-night)
 
