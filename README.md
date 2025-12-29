@@ -149,9 +149,29 @@ Real-time user login, registration, and messaging app with responsive UI and **S
 
 ---
 
+### 🌱Internships and Experiences
+
+**🤖AI/ML Intern — FrugalX**
+- Reduced effective context usage by 35–50% by designing a multi-agent memory and planning framework, enabling coherent long-form generation beyond native LLM context limits.
+- Improved cross-chapter coherence and revision accuracy by ~40% through decomposition of long-context tasks across specialized LLM agents.
+- Scaled long-context reasoning by orchestrating 6 coordinated agents for narrative planning, writing, and editing, preventing context overflow in full-length document generation.
+
+**💻Intern — Celeris Ventures**
+- Built n8n automations for email integration, enabling direct email access and processing without manual loading or intervention.
+- Streamlined workflow automation to improve efficiency and reduce manual operational overhead.
+
+**👩🏻‍💻Contributor — GirlScript Summer of Code (GSSoC) 2025**
+- Contributed to 6 open-source repositories with 6 merged pull requests, including 3 Level-3, 2 Level-2, and 1 Level-1 contributions.
+- Collaborated with maintainers to deliver production-ready features and fixes.
+
+**🌐SheFi Cohort 14 Scholar**
+- Selected as a scholar for a competitive Web3 and DeFi education cohort focused on decentralized technologies and financial systems.
+
+---
+
 ### 🧭 GitHub Achievements & Activity  
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=IqraS-gif&theme=tokyonight&margin-w=15&row=1&column=6)](https://github.com/ryo-ma/github-profile-trophy)  
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=IqraS-gif&show_icons=true&theme=tokyonight&cache_seconds=86400)
 
 ![Iqra's Graph](https://github-readme-activity-graph.vercel.app/graph?username=IqraS-gif&theme=tokyo-night)
 
@@ -184,7 +204,7 @@ Real-time user login, registration, and messaging app with responsive UI and **S
 
 ### 💻 LeetCode Practice  
 
-![LeetCode Stats](https://leetcard.jacoblin.cool/Iqra_Sayed?theme=dark&font=Consolas)
+![LeetCode Stats](https://leetcode-stats.vercel.app/api?username=Iqra_Sayed&theme=dark)
 
 ---
 
