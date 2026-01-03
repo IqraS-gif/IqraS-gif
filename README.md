@@ -190,7 +190,8 @@ Real-time user login, registration, and messaging app with responsive UI and **S
 ### 🏅 Achievements & Communities
 
 - 🥈 **2nd Prize at EXALT** – College’s Technical Fest  
-- 🥈 **1st Runner-Up at HackNova-2025 Hackathon**  
+- 🥈 **1st Runner-Up at HackNova-2025 Hackathon**
+- 🥇 **Winner at TechSprint 2026**  
 - 💻 **Web Dev Intern at Axel Enterprise**  
 - 🌱 **Social Entrepreneurship** – Hamari Pahchan NGO  
 - 🚀 **Fellow, SheFi Cohort 14**  
