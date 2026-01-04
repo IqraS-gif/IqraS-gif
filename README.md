@@ -15,7 +15,7 @@ Computer Engineering Student | Web Developer | AI & ML Explorer
 
 ### 👩🏻‍💻 About Me
 
-Hello! I'm a 3rd-year Computer Engineering student with a CGPA of 9.91. I'm deeply passionate about **coding**, **web development**, and **AI/ML**. I love building impactful, intelligent applications — from real-time chat systems to startup analysis tools. I thrive in fast-paced, learning-rich environments and enjoy turning ideas into digital reality.
+Hello! I'm a 3rd-year Computer Engineering student with a CGPA of 10 I'm deeply passionate about **coding**, **web development**, and **AI/ML**. I love building impactful, intelligent applications — from real-time chat systems to startup analysis tools. I thrive in fast-paced, learning-rich environments and enjoy turning ideas into digital reality.
 
 ---
 
