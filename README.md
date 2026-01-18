@@ -72,15 +72,6 @@ FoundersFuel performs deep evaluation across seven critical domains using a **Re
 
 ---
 
-### 🎓 AI CAREEER COACH : https://aicareer-coach.github.io/AI-Career-coach/index.html
-
-- 🗺️ **Dynamic Career Roadmap** – Generate a personalized 3, 6, or 12-month plan with curated courses, projects, and evolving milestones.  
-- 📄 **AI Resume & LinkedIn Optimizer** – Get ATS-compliant feedback, keyword-enhanced bullet points, and recruiter-ready profiles.  
-- 🧩 **Skill Gap Analysis** – Identify strengths and gaps with deep AI-based comparisons against your target roles.  
-- 💼 **Smart Job Matching** – Find top 7 verified job openings via **Adzuna API**, tailored to your skills and preferences.  
-- 🎙️ **AI-Powered Mock Interviews** – Practice domain-specific questions with instant feedback and detailed performance reports.  
-- 🤖 **24/7 AI Mentor Chatbot** – Get instant guidance using the “I’m Stuck” button for any career-related query.  
-
 ---
 #### 🌱 **AI-Driven Air Quality Monitoring System**
 
