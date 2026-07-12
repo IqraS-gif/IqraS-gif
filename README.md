@@ -1,8 +1,7 @@
 # [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=25&pause=1000&color=550000&center=true&vCenter=true&width=600&lines=Hey+there!+I'm+Iqra+Sayed+👋;Computer+Engineering+Student;Web+Developer+%7C+AI+%26+ML+Explorer;Welcome+to+my+GitHub!)](https://git.io/typing-svg)
 
 # Sayed Iqra Hassan ✨
-## **$\color{#E91E63}{\text{Google Solution Challenge Semi-Finalist}}$** | **$\color{#E91E63}{\text{Flipkart GridLock Semi-Finalist}}$** | **$\color{#E91E63}{\text{9X Hackathon Winner}}$** | **$\color{#E91E63}{\text{9.93 CGPA}}$** | **$\color{#E91E63}{\text{Computer Engineering Student}}$** | **$\color{#E91E63}{\text{Web Developer}}$** | **$\color{#E91E63}{\text{AI and ML Explorer}}$**
-
+## Google Solution Challenge Semi-Finalist | Flipkart GridLock Semi-Finalist | 9X Hackathon Winner | 9.93 CGPA | Computer Engineering Student | Web Developer | AI & ML Explorer
 
 ---
 
@@ -26,7 +25,9 @@ Hello! I'm a final-year Computer Engineering student with a CGPA of 9.93. I'm de
 
 **Overview:** SevaSetu is an AI-powered social impact platform that connects NGOs, volunteers, citizens, and CSR partners through a unified web, mobile, and chatbot ecosystem. It streamlines volunteer management, grievance resolution, CSR matching, and disaster response using AI, multilingual support, and an offline-first architecture.
 
-**✨ Key Features:**
+<details>
+<summary><b><img src="https://img.shields.io/badge/%E2%9C%A8%20Click%20To%20Expand%20Features-2ECC71?style=for-the-badge" alt="Expand Features" /></b></summary>
+<br>
 
 * **AI Document Intelligence** – Extracts and structures information from forms, reports, and NGO documents.
 * **Volunteer Auto-Assignment** – Matches volunteers to tasks based on skills, location, and availability.
@@ -36,6 +37,7 @@ Hello! I'm a final-year Computer Engineering student with a CGPA of 9.93. I'm de
 * **Crisis Analytics Dashboard** – Visualizes disaster hotspots and resource allocation through real-time insights.
 * **Offline-First & Multilingual** – Ensures seamless operation in low-connectivity regions with automatic synchronization and multilingual accessibility.
 * **Google Cloud Powered** – Built using FastAPI microservices integrated with 5+ Google Cloud services for scalable AI-driven workflows.
+</details>
 
 ---
 
@@ -43,7 +45,10 @@ Hello! I'm a final-year Computer Engineering student with a CGPA of 9.93. I'm de
 
 **Overview:** Janani Setu is an AI-powered maternal healthcare platform that bridges the gap between rural pregnant women, ASHA workers, and doctors. It enables early risk detection, smart triage, and timely medical intervention through an offline-first, multilingual, and voice-enabled ecosystem.
 
-**✨ Key Features:**
+<details>
+<summary><b><img src="https://img.shields.io/badge/%E2%9C%A8%20Click%20To%20Expand%20Features-FF6F91?style=for-the-badge" alt="Expand Features" /></b></summary>
+<br>
+
 * **AI Risk Assessment** – Predicts maternal health risks using machine learning and multimodal health data.
 * **Voice-First Assistant** – Supports multilingual voice interactions for low-literacy users.
 * **Computer Vision Screening** – Detects physical symptoms such as swelling and analyzes health indicators from images.
@@ -51,6 +56,7 @@ Hello! I'm a final-year Computer Engineering student with a CGPA of 9.93. I'm de
 * **ASHA Worker Dashboard** – Provides smart route planning, medication tracking, and streamlined data collection.
 * **Doctor Dashboard** – Highlights critical cases and enables faster decision-making.
 * **Offline-First Architecture** – Works in low-connectivity regions with automatic data synchronization.
+</details>
 
 **🛠️ Tech Stack:** React Native • FastAPI • Python • Firebase • SQLite • Machine Learning • Computer Vision • LLMs • RAG AI Systems
 
@@ -62,11 +68,15 @@ Hello! I'm a final-year Computer Engineering student with a CGPA of 9.93. I'm de
 
 **Overview:** FoundersFuel is an intelligent platform designed to empower startups and investors through deep AI-driven insights. It leverages state-of-the-art language models and data analytics to evaluate startup potential, optimize pitches, and connect founders with the right investors.
 
-**Key Features:**
+<details>
+<summary><b><img src="https://img.shields.io/badge/%E2%9C%A8%20Click%20To%20Expand%20Features-FF7043?style=for-the-badge" alt="Expand Features" /></b></summary>
+<br>
+
 * 🧠 **Pitch Deck Analyzer:** Performs detailed analysis of uploaded pitch decks. Provides **comparative analysis**, **sentiment evaluation**, and **Named Entity Recognition (NER)**. Conducts **slide-by-slide review** with AI-generated feedback and scoring. Utilizes pretrained models from **Hugging Face** and **Gemini 2.5 Flash**.
 * 💼 **Investor & Accelerator Recommendations:** Enter your **startup description**, **funding stage**, and **investor type** to receive personalized recommendations. Access a curated database of **3000+ verified investors and accelerators**.
 * 📈 **Success Prediction Engine:** Predicts **startup success probability** using **Logistic Regression models**. Explains predictions through **SHAP (SHapley Additive exPlanations)**.
 * 🔍 **7-Domain AI Analysis & RAG-Based Chatbot:** Performs deep evaluation using a **Retrieval-Augmented Generation (RAG)** pipeline enhanced with **SerpAPI** for real-time web insights (Idea Evaluation, Market Differentiation, Tech Stack, Competition, Pitch Generation, Improvement Suggestions, Investment Metrics).
+</details>
 
 ---
 
@@ -74,7 +84,10 @@ Hello! I'm a final-year Computer Engineering student with a CGPA of 9.93. I'm de
 
 **Overview:** AccessiScan is an AI-powered web accessibility platform that helps developers identify, understand, and fix WCAG 2.2 accessibility violations across websites and codebases. It combines automated accessibility audits, GitHub integration, browser extensions, and AI-generated remediation into a single developer-friendly workflow.
 
-**✨ Key Features:**
+<details>
+<summary><b><img src="https://img.shields.io/badge/%E2%9C%A8%20Click%20To%20Expand%20Features-3498DB?style=for-the-badge" alt="Expand Features" /></b></summary>
+<br>
+
 * **WCAG 2.2 Website Scanner** – Performs multi-page accessibility audits with detailed scoring and violation reports.
 * **GitHub Repository Analysis** – Scans codebases, maps issues to WCAG criteria, and generates AI-powered fixes.
 * **AI Remediation Engine** – Suggests ARIA labels, semantic HTML improvements, and contrast-compliant CSS fixes.
@@ -83,6 +96,7 @@ Hello! I'm a final-year Computer Engineering student with a CGPA of 9.93. I'm de
 * **VS Code Integration** – Provides contextual accessibility fixes and plain-English explanations inside the development workflow.
 * **MCP Server Integration** – Delivers real-time accessibility audits and code fixes directly within the editor environment.
 * **Analytics Dashboard** – Tracks accessibility scores, project history, and compliance trends over time.
+</details>
 
 **🛠️ Tech Stack:** React • FastAPI • GitHub APIs • Browser Extensions • AI/LLMs • Accessibility Testing Tools • WCAG 2.2 Compliance Engine
 
