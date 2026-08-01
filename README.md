@@ -1,4 +1,4 @@
-# [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=25&pause=1000&color=550000&center=true&vCenter=true&width=600&lines=Hey+there!+I'm+Iqra+Sayed+👋;Computer+Engineering+Student;Web+Developer+%7C+AI+%26+ML+Explorer;Welcome+to+my+GitHub!)](https://git.io/typing-svg)
+# [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=25&pause=1000&color=550000&center=true&vCenter=true&width=600&lines=Hola+Amigos!+I'm+Iqra+Sayed+👋;Computer+Engineering+Student;Web+Developer+%7C+AI+%26+ML+Explorer;Welcome+to+my+GitHub!)](https://git.io/typing-svg)
 
 # Sayed Iqra Hassan ✨
 ## Google Solution Challenge Semi-Finalist | Flipkart GridLock Semi-Finalist | 9X Hackathon Winner | 9.93 CGPA | Computer Engineering Student | Web Developer | AI & ML Explorer
