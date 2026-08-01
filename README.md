@@ -19,9 +19,32 @@ Hello! I'm a final-year Computer Engineering student with a CGPA of 9.93. I'm de
 
 ---
 
+
+### 🏆 Achievements
+
+> [!IMPORTANT]
+> * **Google Solution Challenge 2026** – Semi-Finalist (**Top 106 Global Teams**)
+> * **Flipkart GridLock 2.0** – Semi-Finalist
+> * **ICPC AlgoQueen 2026** – AIR 29
+> * **1st Prize** – TechXpression 2.0 (Real-Time Fraud Detection System, 2026)
+> * **1st Prize** – Code-a-thon 2.0 (2026)
+> * **1st Prize** – TechSprint 2026, Atharva University
+> * **1st Prize** – Prakalp 2.0 (2026)
+> * **Sponsor Award (Featherless AI)** – HackNiche 4.0
+> * **1st Runner-Up** – BuildX India Hackathon (2026)
+> * **1st Runner-Up** – HackNova Hackathon (Campus Control Platform, 2025)
+> * **2nd Prize** – EXALT: Best Project of the Academic Year
+> * **Institutional Rank #2** – GeeksforGeeks
+> * **Solved 400+ DSA Problems** across LeetCode & GeeksforGeeks
+> * **Top 250** – Ranked **234th** out of **6,000+** participants in the CodeClash Final Round
+> * **Hacktoberfest 2025** – Level 1 Completed
+
+---
+
 ### 🚀 Featured Projects
 
 #### 🌟 **SevaSetu**
+[**Live Demo**](https://seva-setu-xsgeia7m8-iqras-gifs-projects.vercel.app/)
 
 **Overview:** SevaSetu is an AI-powered social impact platform that connects NGOs, volunteers, citizens, and CSR partners through a unified web, mobile, and chatbot ecosystem. It streamlines volunteer management, grievance resolution, CSR matching, and disaster response using AI, multilingual support, and an offline-first architecture.
 
@@ -79,8 +102,28 @@ Hello! I'm a final-year Computer Engineering student with a CGPA of 9.93. I'm de
 </details>
 
 ---
+#### 🌌 **SpaceScope**
+[**Live Demo**](https://spacescope-live.vercel.app/dashboard)
+
+**Overview:** SpaceScope is an AI-powered space intelligence platform that transforms real-time space and Earth data into interactive insights. It enables users to monitor satellites, analyze planetary health, track space weather, and explore the universe through immersive visualizations and intelligent analytics.
+
+<details>
+<summary><b><img src="https://img.shields.io/badge/%E2%9C%A8%20Click%20To%20Expand%20Features-4A90E2?style=for-the-badge" alt="Expand Features" /></b></summary>
+<br>
+
+* **Hazard Detection** – Monitor real-time terrestrial and cosmic hazards.
+* **Space Weather** – Track solar flares, CMEs, and geomagnetic storms.
+* **Satellite Tracker** – Explore live satellite orbits in an interactive 3D view.
+* **Mission Timeline** – Discover past, ongoing, and upcoming space missions.
+* **Planet Health** – AI-powered Earth observation using satellite imagery.
+* **Knowledge Hub** – Interactive space encyclopedia and quizzes.
+
+</details>
+
+---
 
 #### ♿ **AccessiScan**
+[**Live Demo**](https://accessi-scan-final.vercel.app/dashboard)
 
 **Overview:** AccessiScan is an AI-powered web accessibility platform that helps developers identify, understand, and fix WCAG 2.2 accessibility violations across websites and codebases. It combines automated accessibility audits, GitHub integration, browser extensions, and AI-generated remediation into a single developer-friendly workflow.
 
@@ -168,24 +211,6 @@ Real-time user login, registration, and messaging app with responsive UI and **S
 </details>
 
 ---
-
-### 🏆 Achievements
-
-> [!IMPORTANT]
-> * **Google Solution Challenge 2026** – Semi-Finalist (**Top 106 Global Teams**)
-> * **Flipkart GridLock 2.0** – Semi-Finalist
-> * **1st Prize** – TechXpression 2.0 (Real-Time Fraud Detection System, 2026)
-> * **1st Prize** – Code-a-thon 2.0 (2026)
-> * **1st Prize** – TechSprint 2026, Atharva University
-> * **1st Prize** – Prakalp 2.0 (2026)
-> * **Sponsor Award (Featherless AI)** – HackNiche 4.0
-> * **1st Runner-Up** – BuildX India Hackathon (2026)
-> * **1st Runner-Up** – HackNova Hackathon (Campus Control Platform, 2025)
-> * **2nd Prize** – EXALT: Best Project of the Academic Year
-> * **Institutional Rank #2** – GeeksforGeeks
-> * **Solved 400+ DSA Problems** across LeetCode & GeeksforGeeks
-> * **Top 250** – Ranked **234th** out of **6,000+** participants in the CodeClash Final Round
-> * **Hacktoberfest 2025** – Level 1 Completed
 
 ### 🧩 Tech Stack Summary
 
