@@ -44,8 +44,8 @@ Hello! I'm a final-year Computer Engineering student with a CGPA of 9.93. I'm de
 ### 🚀 Featured Projects
 
 #### 🌟 **SevaSetu**
-[**Live Demo**](https://seva-setu-xsgeia7m8-iqras-gifs-projects.vercel.app/)
-
+[**Live Demo**]
+(https://seva-setu-xsgeia7m8-iqras-gifs-projects.vercel.app/)
 **Overview:** SevaSetu is an AI-powered social impact platform that connects NGOs, volunteers, citizens, and CSR partners through a unified web, mobile, and chatbot ecosystem. It streamlines volunteer management, grievance resolution, CSR matching, and disaster response using AI, multilingual support, and an offline-first architecture.
 
 <details>
